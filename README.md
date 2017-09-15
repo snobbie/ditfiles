@@ -1,2 +1,2 @@
-# ditfiles
+# dotfiles
 @snobbie's dotfiles
